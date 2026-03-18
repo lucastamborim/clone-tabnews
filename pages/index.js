@@ -419,7 +419,7 @@ export default function Home() {
             </h1>
 
             <p className="hero-desc">
-              Desenvolvedor full stack com foco em <em>web e mobile</em>.
+              Desenvolvedor full stack com experiência em <em>web e mobile</em>.
               APIs REST com Node e Django | DRF
             </p>
 
